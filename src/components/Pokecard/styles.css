@@ -1,0 +1,12 @@
+.questionario-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .question-counter {
+    margin-top: 16px;
+    font-size: 1.2rem;
+    text-align: center;
+  }
+  

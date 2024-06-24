@@ -1,9 +1,7 @@
-import  Questionario from '../components/Pokecard.tsx'
-import  Navbar from '../components/Navbar.tsx'
+import  Questionario from '../components/Pokecard/View.tsx'
 const Home = () => {
     return (
         <>
-        <Navbar/>
         <Questionario/>
         </>
     )
